@@ -21,7 +21,7 @@ a {
 /* ここからcssを書いていきましょう */
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(1_9MkE-IqSsT3c2rkItBzhog.jpeg);
+  background-image: url("1_9MkE-IqSsT3c2rkItBzhog.jpeg");
   background-size: cover;
   color: white;
   text-align: center;
